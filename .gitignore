@@ -211,14 +211,3 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/web,java,windows,java-web,intellij,intellij+iml
-/Index/.idea/$CACHE_FILE$
-/.idea/$CACHE_FILE$
-/Index/.idea/$PRODUCT_WORKSPACE_FILE$
-/.idea/$PRODUCT_WORKSPACE_FILE$
-/Index/.idea/.gitignore
-/Index/.idea/.name
-/Index/.idea/compiler.xml
-/Index/.idea/encodings.xml
-/Index/.idea/misc.xml
-/.idea/vcs.xml
-/Index/.idea/vcs.xml
